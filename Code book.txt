@@ -1,0 +1,10 @@
+testx       test data measurments
+testy       activity label of test data
+subtest     subject label of test data
+trainx      train data measurments
+trainy      activity labels of train data
+subtrain    subject label of train data
+testdata    data set of test data
+traindata   data set of train data
+dataset     tiddy data of test and train data
+meanstd     measurements on the mean and standard deviation
